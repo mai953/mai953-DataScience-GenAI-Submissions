@@ -2,8 +2,8 @@
 ## Description: 
 This repository contains all Google Colab and GitHub files used and reviewed during the course of the Data Science & Generative AI module.  
 ## Table of Contents (ToC): 
-  2_02: Joining DataFrames
-  2_03: Calculated Fields, Indexing, and Subsetting
+2_02: Joining DataFrames
+2_03: Calculated Fields, Indexing, and Subsetting
 2_04: Transforms, and Concatenation
 2_05: Exploratory Data Analysis
 3_0X: Statistical Exploratory Data Analysis 
